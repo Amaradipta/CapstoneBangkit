@@ -9,3 +9,6 @@ SUKOZ is an Android-based application that helps users discover personalized rec
 - See our Machine Learning [🔗 github repository](https://github.com/Faiz-Zenith/SUKOZ_Capstone)
 
 ## ABOUT US
+- Akmal Nuur Fauzan (LinkedIn: https://www.linkedin.com/in/akmal-nuur-fauzan-a245b2231/)
+- Saepul Bahri (LinkedIn: https://www.linkedin.com/in/saepul-bahri-8180bb219/)
+- Muhammad Ammaradipta
